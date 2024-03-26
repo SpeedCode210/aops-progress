@@ -1,5 +1,5 @@
 # aops-progress
-A script to add a progress display of modules for artofproblemsolving.com
+A script to add a progress display for artofproblemsolving.com
 
 ## How to install :
 
